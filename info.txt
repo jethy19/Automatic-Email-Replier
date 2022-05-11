@@ -1,0 +1,3 @@
+Sender Mail Id
+Sender Mail Id Password
+Reciever Mail Id
